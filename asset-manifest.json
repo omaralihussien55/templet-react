@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/templet-react/static/css/main.9360c07c.chunk.css",
+    "main.js": "/templet-react/static/js/main.c0f32519.chunk.js",
+    "main.js.map": "/templet-react/static/js/main.c0f32519.chunk.js.map",
+    "runtime-main.js": "/templet-react/static/js/runtime-main.f6502521.js",
+    "runtime-main.js.map": "/templet-react/static/js/runtime-main.f6502521.js.map",
+    "static/js/2.b0aa43f1.chunk.js": "/templet-react/static/js/2.b0aa43f1.chunk.js",
+    "static/js/2.b0aa43f1.chunk.js.map": "/templet-react/static/js/2.b0aa43f1.chunk.js.map",
+    "static/js/3.1646a76e.chunk.js": "/templet-react/static/js/3.1646a76e.chunk.js",
+    "static/js/3.1646a76e.chunk.js.map": "/templet-react/static/js/3.1646a76e.chunk.js.map",
+    "index.html": "/templet-react/index.html",
+    "static/css/main.9360c07c.chunk.css.map": "/templet-react/static/css/main.9360c07c.chunk.css.map",
+    "static/js/2.b0aa43f1.chunk.js.LICENSE.txt": "/templet-react/static/js/2.b0aa43f1.chunk.js.LICENSE.txt",
+    "static/media/logo-man.41159336.svg": "/templet-react/static/media/logo-man.41159336.svg",
+    "static/media/phone1.b6c41635.jpg": "/templet-react/static/media/phone1.b6c41635.jpg",
+    "static/media/phone2.b5df9402.jpg": "/templet-react/static/media/phone2.b5df9402.jpg",
+    "static/media/phone3.6d947c68.jpg": "/templet-react/static/media/phone3.6d947c68.jpg",
+    "static/media/phone4.2d10cc02.jpg": "/templet-react/static/media/phone4.2d10cc02.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6502521.js",
+    "static/js/2.b0aa43f1.chunk.js",
+    "static/css/main.9360c07c.chunk.css",
+    "static/js/main.c0f32519.chunk.js"
+  ]
+}
